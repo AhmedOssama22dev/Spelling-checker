@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589230234 source:c:\users\ahmed  pc\documents\term 3\programingi\projects\spellcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589342008 source:c:\users\ahmed  pc\documents\term 3\programing\projects\spellcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
